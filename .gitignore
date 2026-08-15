@@ -67,3 +67,5 @@ outputs/
 notebook_output/
 results/
 reports
+
+database.ini
